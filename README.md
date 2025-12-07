@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&height=50&lines=Joko+Pramono+Ramadhani" alt="Name Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=Joko+Pramono+Ramadhani" alt="Name Typing" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=1500&color=2E8B57&center=true&vCenter=true&width=500&height=40&lines=Web+%26+Multiplatform+Developer" alt="Title Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=1500&color=F8F8F8&center=true&vCenter=true&width=500&height=40&lines=Web+%26+Multiplatform+Developer" alt="Title Typing" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+scalable+web+and+cross-platform+solutions;Focus+on+clean+code+and+best+practices" alt="Tagline Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Building+scalable+web+and+cross-platform+solutions;Focus+on+clean+code+and+best+practices" alt="Tagline Typing" />
 </p>
 
 <div align="center">
@@ -17,31 +17,31 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF6347&center=true&vCenter=true&width=400&height=30&lines=------------------------------" alt="Separator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=E0E0E0&center=true&vCenter=true&width=400&height=30&lines=------------------------------" alt="Separator" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=1000&color=FF6347&center=true&vCenter=true&width=200&height=40&lines=About+Me" alt="About Me Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=200&height=40&lines=About+Me" alt="About Me Title" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=2000&color=2C3E50&center=true&vCenter=true&width=780&lines=I+specialize+in+creating+robust+web+applications+and+cross-platform+solutions;My+approach+emphasizes+clean+architecture+and+maintainable+code;Currently+exploring+Cloud+Native+development+and+Microservices" alt="About description typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=2000&color=F0F0F0&center=true&vCenter=true&width=780&lines=I+specialize+in+creating+robust+web+applications+and+cross-platform+solutions;My+approach+emphasizes+clean+architecture+and+maintainable+code;Currently+exploring+Cloud+Native+development+and+Microservices" alt="About description typing" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=333333&center=true&vCenter=true&width=800&height=100&lines=**Focus:**+Building+interactive,+scalable,+and+user-centric+applications;**Expertise:**+Full-stack+development+with+modern+frameworks+and+languages;**Philosophy:**+Clean+code,+best+practices,+and+continuous+learning;**Current+Exploration:**+Cloud+Computing,+Microservices+Architecture,+and+Web+Performance+Optimization" alt="About details typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=E8E8E8&center=true&vCenter=true&width=800&height=100&lines=**Focus:**+Building+interactive,+scalable,+and+user-centric+applications;**Expertise:**+Full-stack+development+with+modern+frameworks+and+languages;**Philosophy:**+Clean+code,+best+practices,+and+continuous+learning;**Current+Exploration:**+Cloud+Computing,+Microservices+Architecture,+and+Web+Performance+Optimization" alt="About details typing" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF6347&center=true&vCenter=true&width=400&height=30&lines=------------------------------" alt="Separator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=E0E0E0&center=true&vCenter=true&width=400&height=30&lines=------------------------------" alt="Separator" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=1000&color=FF6347&center=true&vCenter=true&width=300&height=40&lines=Technical+Stack" alt="Technical Stack Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=300&height=40&lines=Technical+Stack" alt="Technical Stack Title" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=500&color=7F52FF&center=true&vCenter=true&width=400&height=30&lines=Programming+Languages" alt="Programming Languages Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=500&color=D4C7FF&center=true&vCenter=true&width=400&height=30&lines=Programming+Languages" alt="Programming Languages Subtitle" />
 </p>
 <p align="center">
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=500&color=E34F26&center=true&vCenter=true&width=400&height=30&lines=Frontend+Development" alt="Frontend Development Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=500&color=FFC8B2&center=true&vCenter=true&width=400&height=30&lines=Frontend+Development" alt="Frontend Development Subtitle" />
 </p>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=500&color=339933&center=true&vCenter=true&width=400&height=30&lines=Backend+%26+Frameworks" alt="Backend & Frameworks Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=500&color=B2FFB2&center=true&vCenter=true&width=400&height=30&lines=Backend+%26+Frameworks" alt="Backend & Frameworks Subtitle" />
 </p>
 <p align="center">
   <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=500&color=4479A1&center=true&vCenter=true&width=400&height=30&lines=Databases+%26+Tools" alt="Databases & Tools Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=500&color=B2DFFF&center=true&vCenter=true&width=400&height=30&lines=Databases+%26+Tools" alt="Databases & Tools Subtitle" />
 </p>
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=500&color=3DDC84&center=true&vCenter=true&width=400&height=30&lines=Development+Environments" alt="Development Environments Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1500&pause=500&color=B2FFD9&center=true&vCenter=true&width=400&height=30&lines=Development+Environments" alt="Development Environments Subtitle" />
 </p>
 <p align="center">
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" /></a>
@@ -95,19 +95,19 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF6347&center=true&vCenter=true&width=400&height=30&lines=------------------------------" alt="Separator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=E0E0E0&center=true&vCenter=true&width=400&height=30&lines=------------------------------" alt="Separator" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=1000&color=FF6347&center=true&vCenter=true&width=250&height=40&lines=Get+In+Touch" alt="Get In Touch Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=1500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=250&height=40&lines=Get+In+Touch" alt="Get In Touch Title" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&height=30&lines=Email:+jokopramonoramadhani@gmail.com" alt="Email Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=B2DFFF&center=true&vCenter=true&width=600&height=30&lines=Email:+jokopramonoramadhani@gmail.com" alt="Email Typing" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=2500&color=808080&center=true&vCenter=true&width=600&lines=Open+to+collaboration+and+new+opportunities;Let's+build+something+amazing+together" alt="Contact message typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=2500&color=CCCCCC&center=true&vCenter=true&width=600&lines=Open+to+collaboration+and+new+opportunities;Let's+build+something+amazing+together" alt="Contact message typing" />
 </p>
 
 <p align="center">
@@ -115,5 +115,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=3000&color=696969&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile.+Feel+free+to+explore+my+repositories." alt="Footer typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=3000&color=AAAAAA&center=true&vCenter=true&width=700&lines=Thank+you+for+visiting+my+profile.+Feel+free+to+explore+my+repositories." alt="Footer typing animation" />
 </p>
