@@ -34,10 +34,10 @@
 - MySQL | PostgreSQL | REST API | Git | Docker | MongoDB | 
 
 #### Multiplatform
-- Kotlin Multiplatform
+- Kotlin Multiplatform  
 - Python Multiplatform
 
-#### Mobile Developement
+#### Mobile Development
 - Android Studio (Java, Kotlin)
 
 ---
@@ -48,4 +48,8 @@
 
 ---
 
- *If you like my work, feel free to follow or collaborate!*
+*If you like my work, feel free to follow or collaborate!*
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jopra-dev&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+</p>
