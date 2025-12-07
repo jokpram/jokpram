@@ -18,7 +18,7 @@
 - Kotlin | Java | JavaScript | TypeScript | C# (.NET) | Golang
 
 ####  Frontend Development
-- HTML | CSS | React.js | Angular.js
+- HTML | CSS | React.js | Angular.js | XML
 
 #### IDE
 - Android Studio | Apache Netbeans | Visual Studio Code 
