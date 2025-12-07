@@ -7,7 +7,7 @@
 </p>
 
 <p align="right">
-  <img src="1765119653305.webp" alt="Joko Pramono" width="250"/>
+  <img src="1765120548994.webp" alt="Joko Pramono" width="250"/>
 </p>
 
 <h1 align="center">Hi, I'm Joko Pramono Ramadhani</h1>
