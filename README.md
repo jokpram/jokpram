@@ -1,4 +1,12 @@
+<p align="left">
+  <img src="1765119653305.webp" alt="Joko Pramono" width="250"/>
+</p>
+
 <p align="center">
+  <img src="1765119653305.webp" alt="Joko Pramono" width="250"/>
+</p>
+
+<p align="right">
   <img src="1765119653305.webp" alt="Joko Pramono" width="250"/>
 </p>
 
