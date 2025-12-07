@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="1765119653305.webp" alt="Joko Pramono" width="250"/>
+</p>
+
 <h1 align="center">Hi, I'm Joko Pramono Ramadhani</h1>
 <h3 align="center"> Passionate Web & Multiplatform Developer from Indonesia</h3>
 
