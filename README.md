@@ -1,3 +1,9 @@
+<h1 align="center">Hi, I'm Joko Pramono Ramadhani</h1>
+
+<h2 align="center"> Web & Multiplatform Developer </h2>
+
+<h3 align="center"> Photos </h3>
+
 <p align="left">
   <img src="1765119653305.webp" alt="Joko Pramono" width="250"/>
 </p>
@@ -10,8 +16,7 @@
   <img src="1765120548994.webp" alt="Joko Pramono" width="250"/>
 </p>
 
-<h1 align="center">Hi, I'm Joko Pramono Ramadhani</h1>
-<h3 align="center"> Web & Multiplatform Developer </h3>
+
 
 ---
 
