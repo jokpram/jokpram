@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Joko Pramono Ramadhani</h1>
-<h3 align="center"> Passionate Web & Multiplatform Developer from Indonesia</h3>
+<h3 align="center"> Web & Multiplatform Developer </h3>
 
 ---
 
